@@ -134,20 +134,75 @@ Which phases cover which requirements. Updated during roadmap creation.
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| API-01 through API-13 | TBD | Pending |
-| IOS-01 through IOS-09 | TBD | Pending |
-| AND-01 through AND-10 | TBD | Pending |
-| PLUG-01 through PLUG-04 | TBD | Pending |
-| QUAL-01 through QUAL-05 | TBD | Pending |
-| EX-01 through EX-08 | TBD | Pending |
-| CI-01 through CI-06 | TBD | Pending |
-| REL-01 through REL-08 | TBD | Pending |
+| API-01 | Phase 1 | Pending |
+| API-02 | Phase 1 | Pending |
+| API-03 | Phase 1 | Pending |
+| API-04 | Phase 1 | Pending |
+| API-05 | Phase 1 | Pending |
+| API-06 | Phase 1 | Pending |
+| API-07 | Phase 1 | Pending |
+| API-08 | Phase 1 | Pending |
+| API-09 | Phase 1 | Pending |
+| API-10 | Phase 1 | Pending |
+| API-11 | Phase 1 | Pending |
+| API-12 | Phase 1 | Pending |
+| API-13 | Phase 1 | Pending |
+| QUAL-01 | Phase 1 | Pending |
+| QUAL-02 | Phase 1 | Pending |
+| QUAL-03 | Phase 1 | Pending |
+| QUAL-04 | Phase 1 | Pending |
+| QUAL-05 | Phase 1 | Pending |
+| IOS-01 | Phase 2 | Pending |
+| IOS-02 | Phase 2 | Pending |
+| IOS-03 | Phase 2 | Pending |
+| IOS-04 | Phase 2 | Pending |
+| IOS-05 | Phase 2 | Pending |
+| IOS-06 | Phase 2 | Pending |
+| IOS-07 | Phase 2 | Pending |
+| IOS-08 | Phase 2 | Pending |
+| IOS-09 | Phase 2 | Pending |
+| AND-01 | Phase 3 | Pending |
+| AND-02 | Phase 3 | Pending |
+| AND-03 | Phase 3 | Pending |
+| AND-04 | Phase 3 | Pending |
+| AND-05 | Phase 3 | Pending |
+| AND-06 | Phase 3 | Pending |
+| AND-07 | Phase 3 | Pending |
+| AND-08 | Phase 3 | Pending |
+| AND-09 | Phase 3 | Pending |
+| AND-10 | Phase 3 | Pending |
+| PLUG-01 | Phase 4 | Pending |
+| PLUG-02 | Phase 4 | Pending |
+| PLUG-03 | Phase 4 | Pending |
+| PLUG-04 | Phase 4 | Pending |
+| EX-01 | Phase 5 | Pending |
+| EX-02 | Phase 5 | Pending |
+| EX-03 | Phase 5 | Pending |
+| EX-04 | Phase 5 | Pending |
+| EX-05 | Phase 5 | Pending |
+| EX-06 | Phase 5 | Pending |
+| EX-07 | Phase 5 | Pending |
+| EX-08 | Phase 5 | Pending |
+| CI-01 | Phase 6 | Pending |
+| CI-02 | Phase 6 | Pending |
+| CI-03 | Phase 6 | Pending |
+| CI-04 | Phase 6 | Pending |
+| CI-05 | Phase 6 | Pending |
+| CI-06 | Phase 6 | Pending |
+| REL-01 | Phase 6 | Pending |
+| REL-02 | Phase 6 | Pending |
+| REL-03 | Phase 6 | Pending |
+| REL-04 | Phase 6 | Pending |
+| REL-05 | Phase 6 | Pending |
+| REL-06 | Phase 6 | Pending |
+| REL-07 | Phase 6 | Pending |
+| REL-08 | Phase 6 | Pending |
 
 **Coverage:**
-- v1 requirements: 58 total
-- Mapped to phases: 0 (filled by roadmapper)
-- Unmapped: 58 ⚠️ — populated during roadmap creation
+- v1 requirements: 63 total (13 API + 5 QUAL + 9 IOS + 10 AND + 4 PLUG + 8 EX + 6 CI + 8 REL)
+- Mapped to phases: 63
+- Unmapped: 0 — full coverage
 
 ---
 *Requirements defined: 2026-05-04*
-*Last updated: 2026-05-04 after initialization*
+*Last updated: 2026-05-04 after roadmap creation — traceability populated*
